@@ -1,0 +1,12 @@
+#+TITLE: README - Reve Workshop Templates
+* Introduction
+  Repository providing various templates used in my projects.
+
+  They are provided both in =.org= file format and in =.md= (markdown)
+  file format.
+* Author
+
++ Roland Everaert
+* Copyright
+
+Copyright (c) 2020 Roland Everaert
