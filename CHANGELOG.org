@@ -6,7 +6,12 @@ The format is based on [[https://keepachangelog.com/en/1.0.0/][Keep a Changelog]
 * Unreleased
 * [0.1.0] 2020-05-15
 ** Added
-   - CHANGELOG.org template.
-   - CHANGELOG.md template.
+   - =CHANGELOG.org= template.
+   - =CHANGELOG.md= template.
    - This file.
-   - The repository with the LICENSE file.
+   - The repository with the =LICENSE= file.
+* [0.1.0] 2020-05-16
+** Added
+   - =README.org= template.
+   - =README.md= template.
+   - =README.org= file presenting the repository.
